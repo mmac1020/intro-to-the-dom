@@ -16,6 +16,4 @@ allButtonArray.forEach((button) => {
 
 const parentNode = document.getElementById('parent');
 
-document.getElementsBy;
-
 console.log(parentNode.firstChild);
